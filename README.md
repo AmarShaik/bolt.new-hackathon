@@ -4,12 +4,12 @@ A comprehensive web application that analyzes websites for accessibility issues 
 
 ## Features
 
-🧠 **AI-Powered Analysis**
+ **AI-Powered Analysis**
 - Generates descriptive alt text for images using Together.ai
 - Creates human-friendly explanations of accessibility issues
 - Provides intelligent code suggestions to fix problems
 
-🔍 **Comprehensive Testing**
+ **Comprehensive Testing**
 - Color contrast analysis
 - Image alt text validation
 - Form label checking
@@ -17,14 +17,14 @@ A comprehensive web application that analyzes websites for accessibility issues 
 - Link accessibility
 - WCAG compliance verification
 
-📊 **Advanced Reporting**
+ **Advanced Reporting**
 - Accessibility score (0-100)
 - Issue breakdown by severity (Critical, High, Medium, Low)
 - Interactive charts and visualizations
 - Downloadable reports
 - Estimated fix times
 
-🎨 **Modern UI/UX**
+ **Modern UI/UX**
 - Responsive design for all devices
 - Beautiful gradient backgrounds
 - Smooth animations and transitions
@@ -215,6 +215,12 @@ npm start
 ```
 
 Make sure to set the `TOGETHER_API_KEY` environment variable in your hosting service.
+
+## Demo
+
+🔗 **Live Website**: [https://accessibility-ai.netlify.app/](https://accessibility-ai.netlify.app/)  
+🎥 **YouTube Demo Video**: [https://youtu.be/xwL7rW4SrOM](https://youtu.be/xwL7rW4SrOM)
+
 
 ## Contributing
 

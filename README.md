@@ -241,6 +241,4 @@ For issues and questions:
 2. Review the Together.ai documentation
 3. Ensure your API key is correctly configured
 
----
-
-Built with ❤️ for web accessibility • Powered by Together.ai
+ • Powered by Together.ai
